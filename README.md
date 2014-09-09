@@ -13,7 +13,7 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 April 2014
 
 ## Authors
-* Jan Bednarik
+* Jan Bednarik - jan.bednarik@hotmail.cz
 * Jakub Kvita - kvitajakub@gmail.com
 
 ## Gallery
